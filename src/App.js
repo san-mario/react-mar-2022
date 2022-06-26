@@ -9,6 +9,7 @@ function App() {
 <Character/>
     </div>
   );
+
 }
 
 export default App;
